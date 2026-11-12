@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 CareerPilot – AI Placement Preparation Platform
 
 CareerPilot is a Python-based placement preparation platform designed to help students prepare for job opportunities through skill analysis, job matching, interview practice, and coding progress tracking.
@@ -56,3 +57,7 @@ To provide students with a centralized platform for placement preparation, helpi
 **Manisha**
 
 Built as a practical project to improve Python programming, database management and application development skills.
+=======
+# AI-Placement-Platform
+A Python-based placement preparation platform featuring job matching, skill gap analysis, interview practice, coding tracking, and student authentication using Streamlit and SQLite.
+>>>>>>> 7cb04ee7674a83eec488befb488a28f33fc52947
